@@ -6,7 +6,7 @@ I've extensive commercial experience with TypeScript & JavaScript, Node.js, Reac
 
 I'm currently enjoying playing around with AI tooling e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
 
-Projects I've been developing in my free time recently include https://www.book-tok.net/ (see https://github.com/8enSmith/book-tok) and creating an MCP server for the Open Library (https://github.com/8enSmith/mcp-open-library).
+Projects I've been developing/playing-with in my free time recently include https://www.book-tok.net (see [here](https://github.com/8enSmith/book-tok)) and creating an MCP server for the Open Library (see [here](https://github.com/8enSmith/mcp-open-library)).
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=8enSmith&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
