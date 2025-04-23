@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-I'm Ben and I'm a full-stack developer based in Cambridge, UK.
+:earth_americas: I'm Ben and I'm a full-stack developer based in Cambridge, UK.
 
-I've extensive commercial experience with TypeScript & JavaScript, Node.js, React (including Next.js) and AWS & Azure.
+:briefcase: I've extensive commercial experience with TypeScript & JavaScript, Node.js, React (including Next.js) and AWS & Azure.
 
-I'm currently enjoying playing around with AI tooling e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
+:computer: I'm currently enjoying playing around with AI tooling e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
 
 Projects I've been developing/playing-with in my free time recently include https://www.book-tok.net (see [here](https://github.com/8enSmith/book-tok)) and creating an MCP server for the Open Library (see [here](https://github.com/8enSmith/mcp-open-library)).
 
