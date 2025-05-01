@@ -4,7 +4,7 @@
 
 :briefcase: I've extensive commercial experience with TypeScript & JavaScript, Node.js, React (including Next.js) and AWS & Azure.
 
-:computer: I'm currently enjoying playing around with AI tooling e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
+:computer: I'm currently enjoying playing around with AI tooling and LLMs e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
 
 Projects I've been developing/playing-with in my free time recently include https://www.book-tok.net (see [here](https://github.com/8enSmith/book-tok)) and creating a MCP server for the Internet Archive's Open Library that enables AI assistants to search for book and author information (see [here](https://github.com/8enSmith/mcp-open-library)).
 
