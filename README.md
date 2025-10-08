@@ -17,7 +17,7 @@
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=8enSmith&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-pied-xi.vercel.app?user=8enSmith&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-fix-up-c97320-8ensmiths-projects.vercel.app?user=8enSmith&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
