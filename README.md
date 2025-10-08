@@ -8,9 +8,9 @@
 
 🛝 Projects I've been developing in my free time recently include:
 
+* A MCP server for the Internet Archive's Open Library that enables AI assistants to search for book and author information (see [here](https://github.com/8enSmith/mcp-open-library)).
 * https://www.book-tok.net (see [here](https://github.com/8enSmith/book-tok))
 * https://song-summary.vercel.app/ (see [here](https://github.com/8enSmith/song-summary))
-* a MCP server for the Internet Archive's Open Library that enables AI assistants to search for book and author information (see [here](https://github.com/8enSmith/mcp-open-library)).
 
 ## 📊 My GitHub Stats
 <div align="center">
