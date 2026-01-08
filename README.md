@@ -20,6 +20,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-2nz4i0a0t-8ensmiths-projects.vercel.app?user=8enSmith&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
+![](https://komarev.com/ghpvc/?username=8enSmith&style=for-the-badge&color=BF91F3)
+
 <!--
 **8enSmith/8enSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
