@@ -4,7 +4,7 @@
 
 :briefcase: I've extensive commercial experience with TypeScript & JavaScript, Node.js, React (including Next.js) and AWS & Azure.
 
-:computer: I'm currently enjoying playing around with AI tooling and LLMs e.g. GitHub CoPilot, OpenRouter, Ollama and Roo Code (a Cline fork).
+:computer: I'm currently enjoying playing around with AI tooling and LLMs e.g. GitHub CoPilot, Claude Code, OpenRouter, Ollama.
 
 🛝 Projects I've been developing in my free time recently include:
 
